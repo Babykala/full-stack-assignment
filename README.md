@@ -1,13 +1,16 @@
+# Netlify deployment link to the application
 
-## Full Stack Developer Assignment
+https://visionary-conkies-71c2ca.netlify.app/CL
 
-This repository was created to publish assignments as part of interview process for full stack developer role in **[Zigma](https://zigma.in/)**.
+## A link to your LinkedIn/Internshala Profile or to a PDF containing your CV
 
-In order to submit your assignments - 
+https://www.linkedin.com/in/babykala-m-87ba4837/
 
-1. Create your project/repo by forking the base repo from this URL - https://github.com/ZigmaIT/full-stack-assignment and start the work. 
-2. Create a README.md file in the repository that contains the following information - 
-    1. The Netlify deployment link to the application.
-    2. A link to your LinkedIn/Internshala profile or to a PDF file containing your CV.
-    3. Description of your assignment.
+### Description of the assignment.
+
+A web application has been designed to display infinite images from Unsplash API(Developer Documentation) using AXIOS Library. 
+In the respective web application , I have designed to load infinite images from a particular collection automatically by scrolling down (infinite scrolling). In the web application page I have designed 4 tabs to represent four different collection of images.
+As the page gets loaded  , the initially loaded images gets grouped together while rendering the page and other tabs displays the images related to a specific topic of what was clicked.
+
+
 
